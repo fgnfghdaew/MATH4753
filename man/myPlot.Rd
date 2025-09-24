@@ -7,14 +7,14 @@
 myPlot(x, coef, xk)
 }
 \arguments{
-\item{x}{Numeric value}
+\item{x}{Numeric value of x}
 
-\item{coef}{Numeric vector}
+\item{coef}{Numeric vector of coefficient values}
 
-\item{xk}{Numeric value}
+\item{xk}{Numeric value of $x_k$}
 }
 \description{
-Makes plotting piecewise regressions easier
+Makes plotting piece-wise regressions easier, created for lab 4
 }
 \examples{
 coef = c(1, 2 ,3)

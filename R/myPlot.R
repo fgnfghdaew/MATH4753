@@ -1,10 +1,10 @@
 #' Helper function for plotting
 #'
-#' Makes plotting piece-wise regressions easier.
+#' Makes plotting piece-wise regressions easier, created for lab 4
 #'
-#' @param x Numeric value
-#' @param coef Numeric vector
-#' @param xk Numeric value
+#' @param x Numeric value of x
+#' @param coef Numeric vector of coefficient values
+#' @param xk Numeric value of $x_k$
 #'
 #' @examples
 #' coef = c(1, 2 ,3)
